@@ -9,7 +9,7 @@ Classification of Amazon product reviewers into promoters, detractors and passiv
 
 ## Code
 
-### for using datasets, preprocessing text, generating features, accuracy and loss plots, confusion matrix for Dense layer network, and accuracies for other classification models
+### for loading datasets, preprocessing text, generating features, accuracy and loss plots, confusion matrix for Dense layer network, and accuracies for other classification models
 * AmazonMusicSentiment.ipynb
 * AmazonSentiment.ipynb
 * StanfordSentiment.ipynb
