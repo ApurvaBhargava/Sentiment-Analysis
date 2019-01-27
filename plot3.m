@@ -9,6 +9,7 @@
 % The review/ observation will thus have n features as well, summing up the values of y for all the words in the review,
 % corresponding to a given class.
 
+% Plots to understand why 2.5*x was selected as the upper bound and used in the formula when x=t
 t = 1:1000;
 y = 1./log10(t./(t-1));
 subplot(311), plot(t,y);
