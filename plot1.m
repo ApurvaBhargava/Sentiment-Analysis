@@ -1,8 +1,11 @@
-% Given word w and class C
+% Each word will be represented by n features if there are n classes in classification.
+% Given word w and class C,
 % y(w, C) = 1./log10(t/x);
-% t is the total occurrences of the word w in all classes
-% x is the occuurence count of w for class C
-% y is the feature value calculated for the word w for a particular class C
+% t is the total occurrences of the word w in all classes,
+% x is the occuurence count of w for class C,
+% y is the feature value calculated for the word w for a particular class C.
+% The review/ observation will thus have n features as well, summing up the values of y for all the words in the review,
+% corresponding to a given class.
 
 t = 40:100;
 
