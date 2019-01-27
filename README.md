@@ -1,7 +1,7 @@
 # Sentiment-Analysis
 > **(March, 2018)**
 
-Classification of Amazon product reviewers into promoters, detractors and passives by sentiment analysis of their reviews through extraction of features using a novel formula and training a neural network to perform the task.
+Classification of Amazon product reviewers into promoters, detractors and passives by sentiment analysis of their reviews through extraction of features using a novel, self-formulated formula and training a neural network to perform the task.
 
 **Other datasets used**: Twitter Airline Sentiment, Stanford Movie Reviews, imdb Movie Reviews
 
