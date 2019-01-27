@@ -1,6 +1,8 @@
 % Each word will be represented by n features if there are n classes in classification.
 % Given word w and class C,
-% y(w, C) = 1./log10(t/x);
+% if x=0:         y(w, C) = 0
+% else if x=t:    y(w, C) = 2.5*x
+% else:           y(w, C) = 1./log10(t/x);
 % t is the total occurrences of the word w in all classes,
 % x is the occuurence count of w for class C,
 % y is the feature value calculated for the word w for a particular class C.
