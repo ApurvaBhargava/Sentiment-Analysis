@@ -16,7 +16,7 @@ Classification of Amazon product reviewers into promoters, detractors and passiv
 * TwitterSentiment.ipynb
 * imdbSentiment.ipynb
 
-### for visualisation of the novel formula used
+### for explanation and visualisation of the novel formula used
 * plot1.m
 * plot2.m
 * plot3.m
